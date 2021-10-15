@@ -1,5 +1,7 @@
 # vue-shop
 
+https://aniamanson.github.io/vue-shop/
+
 ## Project setup
 ```
 npm install
